@@ -3,7 +3,7 @@ This e-commerce project focuses on product reviews and includes three models: Us
 
 # ERD
 
-<img src="Untitled.png">
+<img src="erd.png">
 Here is the Entity Relationship Diagram (ERD) for the project:
 
 
@@ -14,7 +14,7 @@ Here is the Entity Relationship Diagram (ERD) for the project:
 
 - Clone the repository.
 
-      git@github.com:Skanner33/Active-record-code-challenge.git
+      https://github.com/pmihango/Phase-3-Active-Record-Code-Challenge-Product-Review
 
 - Open it in a Studio Code version of your choosing
 
@@ -22,12 +22,12 @@ Here is the Entity Relationship Diagram (ERD) for the project:
 
 - Your perfectly setup to view and modify the code.
 
-Happy coding!
+
 
 # Authors
 This code challenge was contributed to by :
 
-Mathew Mageto
+Paul Mihango
 
 # License
 The project is licensed under Apache 2.0
